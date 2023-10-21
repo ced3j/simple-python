@@ -5,11 +5,9 @@ Bu README dosyası, projenin amacını, kullanımını ve katkıda bulunma süre
 
 
 
-## Proje Amaçları
+## Proje
 
 - Bu repo, algoritma sorularını çözmek isteyenler için çeşitli kaynaklar sunmayı amaçlar.
-- Aynı zamanda Python programlama dilini kullanarak bu soruları çözmeyi öğrenmek isteyenlere yardımcı olur.
-- Geliştiricilere, algoritma ve veri yapıları konularında pratik yapma fırsatı sunar.
 
 
 
