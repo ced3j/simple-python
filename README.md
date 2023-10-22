@@ -18,3 +18,10 @@ Projeyi yerel bilgisayarınıza klonlayabilirsiniz:
 1. Bu repo'yu klonlayın:
    ```bash
    git clone https://github.com/ced3j/simple-python.git
+
+
+
+## Yaralanabileceğiniz Bazı Python Kaynakları
+
+[Türkçe] -- https://python-istihza.yazbel.com/index.html
+[İngilizce] -- https://www.w3schools.com/python/
