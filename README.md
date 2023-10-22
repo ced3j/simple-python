@@ -23,6 +23,5 @@ Projeyi yerel bilgisayarınıza klonlayabilirsiniz:
 
 ## Yaralanabileceğiniz Bazı Python Kaynakları
 
-[Türkçe] -- https://python-istihza.yazbel.com/index.html
-
+[Türkçe] -- https://python-istihza.yazbel.com/index.html  
 [İngilizce] -- https://www.w3schools.com/python/
