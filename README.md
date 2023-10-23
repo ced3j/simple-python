@@ -25,3 +25,5 @@ Projeyi yerel bilgisayarınıza klonlayabilirsiniz:
 
 [Türkçe] -- https://python-istihza.yazbel.com/index.html  
 [İngilizce] -- https://www.w3schools.com/python/
+
+Kapsamlı bir bilgisayar bilimleri kaynağı: https://teachyourselfcs.com
