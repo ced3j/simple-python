@@ -23,7 +23,7 @@ Projeyi yerel bilgisayarınıza klonlayabilirsiniz:
 
 ## Yaralanabileceğiniz Bazı Python Kaynakları
 
-[Türkçe] -- https://python-istihza.yazbel.com/index.html  
-[İngilizce] -- https://www.w3schools.com/python/
-Kapsamlı bir bilgisayar bilimleri kaynağı: https://teachyourselfcs.com 
-Sadece Python için kaynaklar: https://wiki.python.org/moin/BeginnersGuide/Programmers
+[Türkçe] -- Python İstihza
+[İngilizce] -- W3Schools Python
+Kapsamlı bir bilgisayar bilimleri kaynağı: Teach Yourself CS
+Sadece Python için kaynaklar: Python Beginners Guide
