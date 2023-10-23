@@ -27,3 +27,4 @@ Projeyi yerel bilgisayarınıza klonlayabilirsiniz:
 [İngilizce] -- https://www.w3schools.com/python/
 
 Kapsamlı bir bilgisayar bilimleri kaynağı: https://teachyourselfcs.com
+Sadece Python için kaynaklar: https://wiki.python.org/moin/BeginnersGuide/Programmers
