@@ -20,10 +20,15 @@ Projeyi yerel bilgisayarınıza klonlayabilirsiniz:
    git clone https://github.com/ced3j/simple-python.git
 
 
+### Kaynaklar
 
-## Yaralanabileceğiniz Bazı Python Kaynakları
+[Türkçe] -- [Python İstihza](https://python-istihza.yazbel.com/index.html)
+[İngilizce] -- [W3Schools Python](https://www.w3schools.com/python/)
 
-[Türkçe] -- https://python-istihza.yazbel.com/index.html  
-[İngilizce] -- https://www.w3schools.com/python/
+### Bilgisayar Bilimleri
 
-Kapsamlı bir bilgisayar bilimleri kaynağı: https://teachyourselfcs.com
+Kapsamlı bir bilgisayar bilimleri kaynağı: [Teach Yourself CS](https://teachyourselfcs.com)
+
+### Python'a Özel Kaynaklar
+
+Sadece Python: [Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
