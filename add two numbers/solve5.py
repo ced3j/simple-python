@@ -1,13 +1,16 @@
-# Adding two number using lambda function
+# Lambda fonksiyonu kullanarak iki sayının toplamını hesaplama algoritması
 
-# As we already know that the def keyword is used to define a normal function in Python.
-# Similarly, the lambda keyword is used to define an anonymous function in Python.
+# İlk olarak, 'add_numbers' adlı bir lambda fonksiyonu tanımlıyoruz.
+# Bu lambda fonksiyonu, x ve y adlı iki parametre alır ve bu parametrelerin toplamını döndürür.
+add_numbers = lambda x, y: x + y
 
-def add_numbers(x, y): return x+y
-
-
+# Şimdi, num1 ve num2 adlı iki sayıyı saklıyoruz.
 num1 = 10
 num2 = 30
 
+# Lambda fonksiyonunu kullanarak, num1 ve num2'nin toplamını hesaplıyoruz.
 result = add_numbers(num1, num2)
-print("The sum of {0} and {1} is {2}".format(num1, num2, result))
+
+# Sonucu ekrana yazdırmak için 'print' fonksiyonunu kullanıyoruz. 
+# Sonucu, format kullanarak ekrana yazdırıyoruz.
+print("Toplamı {0} ve {1} = {2}".format(num1, num2, result))
