@@ -33,3 +33,4 @@ Genel : https://github.com/EbookFoundation/free-programming-books/blob/main/cour
 ### Python'a Özel Kaynaklar
 
 Sadece Python: [Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
