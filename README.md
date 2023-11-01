@@ -28,6 +28,7 @@ Projeyi yerel bilgisayarınıza klonlayabilirsiniz:
 ### Bilgisayar Bilimleri
 
 Kapsamlı bir bilgisayar bilimleri kaynağı: [Teach Yourself CS](https://teachyourselfcs.com)
+Genel : https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md#python
 
 ### Python'a Özel Kaynaklar
 
